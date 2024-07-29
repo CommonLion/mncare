@@ -4,7 +4,7 @@ import 'calendar/calendar_screen.dart';
 import 'community_screen.dart';
 import 'home_screen.dart';
 import 'pet_doctor_screen.dart';
-import 'tracking_screen.dart';
+import 'trackings/tracking_screen.dart';
 import '../widgets/bottom_bar.dart';
 import '../widgets/slide_menu.dart';
 import '../widgets/top_app_bar.dart';
